@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw data
+data/raw/
+
+# Editors / secrets / OS
+.vscode/
+.env
+.DS_Store
+Thumbs.db
+
+# Readme
+*.pdf
